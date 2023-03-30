@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.nav-bar-container {
+  height: 5vh;
+  border-bottom: 1px solid #dcdcdc;
+}
+.navbar-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+}
+.theme {
+  height: 30px;
+}
+.home-about-container {
+  display: flex;
+}
+.home {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #333333;
+  list-style: none;
+}
+.about {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #333333;
+  margin-left: 20px;
+  list-style: none;
+}
+.button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+.light {
+  color: #dcdcdc;
+}
